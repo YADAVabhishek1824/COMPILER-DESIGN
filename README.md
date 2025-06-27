@@ -75,4 +75,5 @@ Conclusion
 Compiler design is a foundational topic in computer science that bridges theory and practical software development. It involves several structured phases that work together to transform human-readable code into machine-readable instructions. A well-designed compiler not only translates code but also improves its performance and reliability. Understanding compiler basics is crucial for anyone interested in systems programming, language design, or software optimization.
 
 #OUTPUT
-![Image](https://github.com/user-attachments/assets/277d35d7-79e5-47ec-9e88-080f984fd557)
+![Image](https://github.com/user-attachments/assets/c7d65053-61d3-4ca8-9174-e7fa4485281b)
+
